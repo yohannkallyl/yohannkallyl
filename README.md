@@ -29,10 +29,6 @@
 
 
 
-<div>
- 
-  ![Snake animation](https://github.com/yohannkallyl/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 
