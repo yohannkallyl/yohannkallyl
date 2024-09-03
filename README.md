@@ -1,7 +1,7 @@
 ### Opa, eu me chamo Yohann Kallyl
 
 - 🔭Cursando BICT (Engenharia da Computação) - UFMA
-- 🌱 Eu estou aprendendo HTML, CSS e Javascript
+- 🌱 HTML, CSS , JAVASCRIPT, JQUERY
 
 
 <div id="effect" align="left">
